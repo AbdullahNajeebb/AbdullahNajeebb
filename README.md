@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm [Abdullah Najeeb]! 👋
 
 I'm a [Your Profession/Title] passionate about [Your Interests]. Welcome to my GitHub profile! 
 
