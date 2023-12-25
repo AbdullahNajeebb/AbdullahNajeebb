@@ -1,8 +1,8 @@
 # Hello, I'm [Abdullah Najeeb]! 👋
 
-I'm a [Your Profession/Title] passionate about [Your Interests]. Welcome to my GitHub profile! 
+I'm a [Footballer] passionate about [coding]. Welcome to my GitHub profile! 
 
-🔭 I’m currently working on [Current Projects/Work].
+🔭 I’m currently working on [vs code].
 🌱 I’m currently learning [Technologies/Subjects of Interest].
 💬 Ask me about [Your Expertise/Skills].
 
