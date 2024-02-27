@@ -1,4 +1,4 @@
-# Hello, I'm Abdullah Najeeb! 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1D70F7&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg) 👋
 
 # 💫 About Me:
 🔭 Education and Learning Journey:
