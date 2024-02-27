@@ -19,7 +19,7 @@ I welcome connections through my social platforms. Reach out and let's discuss t
 notabdullahishere@gmail.com
 Feel free to reach out and connect! 😊
 
-<iframe src="https://giphy.com/embed/3unQhOKcogrdDr6qRZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/manutd-cr7-mufc-ggmu-3unQhOKcogrdDr6qRZ">via GIPHY</a></p>
+[<iframe src="https://giphy.com/embed/3unQhOKcogrdDr6qRZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/manutd-cr7-mufc-ggmu-3unQhOKcogrdDr6qRZ">via GIPHY</a></p>](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2Q1aHZyMHl6ODNhZTBiNm4xN250ZGV4cm41Z3c1MG51YWk1MTMzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3unQhOKcogrdDr6qRZ/giphy.gif)
 <!---
 AbdullahNajeebb/AbdullahNajeebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
