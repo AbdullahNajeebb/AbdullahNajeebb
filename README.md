@@ -1,17 +1,35 @@
 # Hello, I'm Abdullah Najeeb! 👋
 
 # 💫 About Me:
-🔭 **Education and Learning Journey:**
-I am currently immersed in a **full-time Web Development program** , . 
+# 💫 About Me:<br>🔭 **Education and Learning Journey:**<br>I am currently immersed in a **full-time Web Development program** , . <br><br>🌱 **Continuous Skill Enhancement:**<br>My commitment to continuous improvement is evident in my pursuit of proficiency in **various languages**. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at FreeCodeCamp. has provided a solid foundation for my journey into **`Full Stack Web Development**.<br><br>👯 **Open to Collaboration:**<br>Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving **JavaScript** and `React-Redux` technologies. My goal is to engage in meaningful projects that contribute to the broader development community.<br><br>💬 **Expertise and Learning Focus:**<br>Feel free to inquire about my expertise in front-end development. As a current **`Full Stack Web Development** . My learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.<br><br><br>📫 **Connect with Me:**<br>I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the World of web development<br>notabdullahishere@gmail.com<br>Feel free to reach out and connect! 😊
 
-🌱 **Continuous Skill Enhancement:**
-My commitment to continuous improvement is evident in my pursuit of proficiency in **various languages**. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at FreeCodeCamp. has provided a solid foundation for my journey into **`Full Stack Web Development**.
 
-👯 **Open to Collaboration:**
-Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving **JavaScript** and `React-Redux` technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abdullah-najeeb-7b66472b7/) 
 
-💬 **Expertise and Learning Focus:**
-Feel free to inquire about my expertise in front-end development. As a current **`Full Stack Web Development** . My learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![OpenStack](https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white) ![Glitch](https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Abdullah Najeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah Najeeb&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah Najeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Abdullah Najeeb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Abdullah Najeeb&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=Abdullah Najeeb&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 📫 **Connect with Me:**
