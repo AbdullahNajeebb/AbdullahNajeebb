@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=00FF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
 
-<img src='![Screenshot 2024-02-28 002647](https://github.com/AbdullahNajeebb/AbdullahNajeebb/assets/154815763/bb5eaafa-adcc-4f00-a6b1-4d4cd0aa165f)
-' style="height: 400px;"/>
 
 # 💫 About Me:
 🔭 Education and Learning Journey:
