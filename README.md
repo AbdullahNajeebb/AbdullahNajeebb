@@ -1,22 +1,19 @@
-# Hello, I'm [Abdullah Najeeb]! 👋
+# Hello, I'm Abdullah Najeeb! 👋
 
-I'm a [Footballer] passionate about [coding]. Welcome to my GitHub profile! 
+I'm a Footballer passionate about coding. Welcome to my GitHub profile! 
 
-🔭 I’m currently working on [vs code].
-🌱 I’m currently learning [Technologies/Subjects of Interest].
-💬 Ask me about [Your Expertise/Skills].
+🔭 I’m currently working on VS code.
+🌱 I’m currently learning Coding.
+💬 Ask me about anything.
 
 ## 🚀 Skills and Tools
-- Programming Languages: [Languages]
-- Frameworks and Technologies: [Frameworks/Tools]
-- Databases: [Database Systems]
-- Other Skills: [Additional Skills]
+- Programming Languages: HTML,CSS,Javascript
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github.com/AbdullahNajeebb)
 
 ## 🌍 Connect with Me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
+[![Linkedin](https://www.linkedin.com/in/abdullah-najeeb-7b66472b7/)]
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
 [![Website](https://img.shields.io/badge/-Website-ff7139?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
