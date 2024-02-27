@@ -17,10 +17,6 @@ Feel free to inquire about my expertise in front-end development. As a current *
 📫 **Connect with Me:**
 I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the World of web development
 notabdullahishere@gmail.com
-
-
-![Animation]([https://media.giphy.com/media/your-gif-url-here/giphy.gif](https://media1.giphy.com/media/3unQhOKcogrdDr6qRZ/giphy.webp?cid=ecf05e47dfhy1k9lzs2n15sgxg4ifdfbux0h00zhizd2zrb5&ep=v1_gifs_search&rid=giphy.webp&ct=g))
-
 Feel free to reach out and connect! 😊
 <!---
 AbdullahNajeebb/AbdullahNajeebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
