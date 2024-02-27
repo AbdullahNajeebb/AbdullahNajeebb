@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=FFFF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=00FF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
 
 
 # 💫 About Me:
