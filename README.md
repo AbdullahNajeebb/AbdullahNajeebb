@@ -1,23 +1,25 @@
 # Hello, I'm Abdullah Najeeb! 👋
 
-I'm a Footballer passionate about coding. Welcome to my GitHub profile! 
+# 💫 About Me:
+🔭 **Education and Learning Journey:**
+I am currently immersed in a **full-time Web Development program** , . 
 
-🔭 I’m currently working on VS code.
-🌱 I’m currently learning Coding.
-💬 Ask me about anything.
+🌱 **Continuous Skill Enhancement:**
+My commitment to continuous improvement is evident in my pursuit of proficiency in **various languages**. With a primary focus on JavaScript and its frameworks, I am dedicated to mastering the intricacies of `React and Redux`. The structured learning environment at FreeCodeCamp. has provided a solid foundation for my journey into **`Full Stack Web Development**.
 
-## 🚀 Skills and Tools
-- Programming Languages: HTML,CSS,Javascript
+👯 **Open to Collaboration:**
+Eager to contribute to the community, I am actively seeking collaboration on open-source projects, particularly those involving **JavaScript** and `React-Redux` technologies. My goal is to engage in meaningful projects that contribute to the broader development community.
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github.com/AbdullahNajeebb)
+💬 **Expertise and Learning Focus:**
+Feel free to inquire about my expertise in front-end development. As a current **`Full Stack Web Development** . My learning journey extends beyond languages to encompass data sciences and machine learning algorithm operations.
 
-## 🌍 Connect with Me
-[![Linkedin]([https://www.linkedin.com/in/abdullah-najeeb-7b66472b7/](https://www.linkedin.com/in/abdullah-najeeb-7b66472b7/))]((https://th.bing.com/th/id/OIP.5raPDFdS65ZKx_HuU6xLHgHaD6?rs=1&pid=ImgDetMain))]
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/yourusername)](https://twitter.com/yourusername)
-[![Website](https://img.shields.io/badge/-Website-ff7139?style=flat-square&logo=appveyor&logoColor=white&link=https://yourwebsite.com)](https://yourwebsite.com)
 
-![Animation](https://media.giphy.com/media/your-gif-url-here/giphy.gif)
+📫 **Connect with Me:**
+I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the World of web development
+notabdullahishere@gmail.com
+
+
+![Animation]([https://media.giphy.com/media/your-gif-url-here/giphy.gif](https://media1.giphy.com/media/3unQhOKcogrdDr6qRZ/giphy.webp?cid=ecf05e47dfhy1k9lzs2n15sgxg4ifdfbux0h00zhizd2zrb5&ep=v1_gifs_search&rid=giphy.webp&ct=g))
 
 Feel free to reach out and connect! 😊
 <!---
