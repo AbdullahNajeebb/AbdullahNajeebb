@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=00FF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
 
-<img src='[https://randommeme-five.vercel.app/](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg5Mzd2OXZ5Z2FjbnBhMmc0NjU1cWFrc3N5b3Q3NWE2bmp3d2N4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F4ScLtJq9hlY7m/giphy.gif)' style="height: 400px;"/>
+<img src='[https://randommeme-five.vercel.app/](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWg5Mzd2OXZ5Z2FjbnBhMmc0NjU1cWFrc3N5b3Q3NWE2bmp3d2N4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o72F4ScLtJq9hlY7m/giphy.gif)' style="height: 100px;"/>
 
 # 💫 About Me:
 🔭 Education and Learning Journey:
