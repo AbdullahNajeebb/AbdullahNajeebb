@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1000&color=00FF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
-
-<img class="imagebanner" src="assets/gif/abdullah.jpg" alt="software developer banner" style="width: 900px;">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=500&pause=1032&color=00FF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
 
 # 💫 About Me:
 🔭 Education and Learning Journey:
