@@ -42,12 +42,6 @@ I welcome connections through my social platforms. Let's discuss the exciting po
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-📫 **Connect with Me:**
-I welcome connections through my social platforms. Reach out and let's discuss the exciting possibilities in the World of web development
-notabdullahishere@gmail.com
-Feel free to reach out and connect! 😊
-
 <!---
 AbdullahNajeebb/AbdullahNajeebb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
