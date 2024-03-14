@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1132&color=00FF00&width=435&lines=Hello!+I+am+Abdullah+Najeeb!)](https://git.io/typing-svg)
 
 # 💫 About Me:
-🔭 Education and Learning Journey:
+🔭 **Education and Learning Journey:**
 I'm immersed in a full-time `Web Development program`, expanding my skills and knowledge in various programming languages.
 
 🌱 Continuous Skill Enhancement:
