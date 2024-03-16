@@ -23,7 +23,11 @@ I welcome connections through my social platforms. Let's discuss the exciting po
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahNajeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdullahNajeeb&theme=dark&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNajeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahNajeeb&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
+
+![](https://github-readme-stats.vercel.app/api?username=TalhaAkhun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=TalhaAkhun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaAkhun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🏆 GitHub Trophies
