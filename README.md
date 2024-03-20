@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 **Education and Learning Journey:**
-I'm immersed in a full-time Web Development program, expanding my *skills* and *knowledge* in various *programming languages*.
+I'm immersed in a full-time Web Development program, expanding my *skills* and *knowledge* in various programming languages.
 
 🌱 **Continuous Skill Enhancement:**
 I'm dedicated to continuous improvement, primarily focusing on `JavaScript` and its frameworks, particularly React and Redux. Through platforms like `FreeCodeCamp`, I've built a solid foundation in `Full Stack Web Development`.
